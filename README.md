@@ -4,7 +4,7 @@
 <p> Página destinada à disciplina Linguagem de Programação 1 </br>
    <strong>Professor:</strong> Francisco </br>
    <strong>Faculdade:</strong> UERJ </br>
-   <strong>Curso: Ciência da Computação</strong> </br>
+   <strong>Curso:</strong> Ciência da Computação</br>
     <strong>Período:<strong/> 2º </br>
 </p>
 
