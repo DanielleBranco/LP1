@@ -5,6 +5,6 @@
    <strong>Professor:</strong> Francisco </br>
    <strong>Faculdade:</strong> UERJ </br>
    <strong>Curso:</strong> Ciência da Computação</br>
-    <strong>Período:<strong/> 2º </br>
+    <strong>Período:</strong> 2º </br>
 </p>
 
