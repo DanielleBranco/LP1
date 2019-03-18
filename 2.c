@@ -20,7 +20,7 @@ int main (void){
 } else {
     printf("Numero maior: %d\n", num2);
     printf("Numero menor: %d\b", num1);
-}
+} 
 return 0;
 }
 
