@@ -7,7 +7,7 @@
 
 int main (void){
   int n,e,d,v,soma,maior,menor;
-  char time[1],mais[1],menos[1];
+  char time[15],mais[15],menos[15];
 
   soma=0;
   n=1;
